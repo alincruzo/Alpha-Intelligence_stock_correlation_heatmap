@@ -7,7 +7,7 @@
 
 Patel Krish Prakashkumar [ku2407u825]
 
-Vipul singh Adhikari [ku2407u735]
+Vipul Singh Adhikari [ku2407u735]
 
 Nitya Patel [ku2407u724] 
 
