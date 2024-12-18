@@ -30,7 +30,7 @@ Learn and Grow: Educate users about correlation concepts and improve investment 
 
 **DATA SOURCE :**
 
-NIFTY FIFTY, SENSEX, YOUTUBE, WIKIPEDIA,YAHOO FINANCE, NYSE , BLOOM BERG ,MARKET WATCH , etc
+ YOUTUBE, WIKIPEDIA,YAHOO FINANCE, NYSE , BLOOM BERG ,MARKET WATCH , etc
 
 **EXECUTION STEPS :**
 
