@@ -5,15 +5,15 @@
 
 **TEAM MEMBERS**:
 
-Patel Krish Prakashkumar [ku2407u825]
+Patel Krish Prakashkumar [ku2407u825] (Executant)
 
-Vipul Singh Adhikari [ku2407u735]
+Vipul Singh Adhikari [ku2407u735] (Tester)
 
-Nitya Patel [ku2407u724] 
+Nitya Patel [ku2407u724] (Data collectionist)
 
-Patel  Henil [ku2407u800]
+Patel  Henil [ku2407u800] (Data collectionist)
 
-Pritika Pangotra [ku2407u741]
+Pritika Pangotra [ku2407u741] (Designer)
 
 
 **OBJECTIUE OF THE PROJECT :**
@@ -30,7 +30,7 @@ Learn and Grow: Educate users about correlation concepts and improve investment 
 
 **DATA SOURCE :**
 
-YOUTUBE, WIKIPEDIA, CHAT GPT, CLAUDE AI, GEMINI AI
+NIFTY FIFTY, SENSEX, YOUTUBE, WIKIPEDIA,YAHOO FINANCE, NYSE , BLOOM BERG ,MARKET WATCH , etc
 
 **EXECUTION STEPS :**
 
